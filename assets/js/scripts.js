@@ -1,8 +1,8 @@
 /*
- Author: Ukieweb
- Template: ukieCard
+ Author: Raagavendran
+ Template: Raagavendran
  Version: 1.0
- URL: http://themeforest.net/user/UkieWeb
+ URL: http://themeforest.net/user/Raagavendran
  */
 
 $(document).ready(function(){

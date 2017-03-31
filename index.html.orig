@@ -7,10 +7,10 @@
 
 <head>
     <meta charset="utf-8" />
-    <title>Home | ukieCard</title>
-    <meta name="author" content="ukieweb" />
-    <meta name="keywords" content="ukieCard, css3, template, html5 template" />
-    <meta name="description" content="ukieCard - Personal Vcard & Resume HTML Template" />
+    <title>Home | Raagavendran</title>
+    <meta name="author" content="Raagavendran" />
+    <meta name="keywords" content="Raagavendran,  " />
+    <meta name="description" content="Raagavendran - Personal Vcard & Resume HTML Template" />
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
     <!-- Font Awesome -->
     <link type="text/css" media="all" href="assets/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet" />
@@ -56,9 +56,9 @@
                         <!-- Your foto -->
                         <div class="foto">
                             <!-- for man -->
-                            <img src="./assets/img/photo.png" alt="Ukieweb">
+                            <img src="./assets/img/photo.png" alt="Raagavendran">
                             <!-- for women -->
-                            <!-- <img src="./assets/img/photo_female.png" alt="Ukieweb"> -->
+                            <!-- <img src="./assets/img/photo_female.png" alt="Raagavendran"> -->
                         </div>
                         <!-- end your foto -->
                     </div>
@@ -121,9 +121,9 @@
                             <!-- img menu block -->
                             <span class="foto">
                                 <!-- for man -->
-                                <img src="./assets/img/menu/profile.png" class="menu-img" data-img-name="profile" alt="Ukieweb" />
+                                <img src="./assets/img/menu/profile.png" class="menu-img" data-img-name="profile" alt="Raagavendran" />
                                 <!-- for women -->
-                                <!--  <img src="./assets/img/menu/profile_female.png" class="menu-img" data-img-name="profile_female" alt="Ukieweb" /> -->
+                                <!--  <img src="./assets/img/menu/profile_female.png" class="menu-img" data-img-name="profile_female" alt="Raagavendran" /> -->
                             </span>
                             <!-- name menu block -->
                             <span class="name">Profile</span>
@@ -134,7 +134,7 @@
                         <a href="resume.html" class="menu-li">
                             <!-- img menu block -->
                             <span class="foto">
-                                <img src="./assets/img/menu/resume.png" class="menu-img" data-img-name="resume" alt="Ukieweb">
+                                <img src="./assets/img/menu/resume.png" class="menu-img" data-img-name="resume" alt="Raagavendran">
                             </span>
                             <!-- name menu block -->
                             <span class="name">Resume</span>
@@ -145,7 +145,7 @@
                         <a href="portfolio.html" class="menu-li">
                             <!-- img menu block -->
                             <span class="foto">
-                                <img src="./assets/img/menu/portfolio.png" class="menu-img" data-img-name="portfolio" alt="Ukieweb">
+                                <img src="./assets/img/menu/portfolio.png" class="menu-img" data-img-name="portfolio" alt="Raagavendran">
                             </span>
                             <!-- name menu block -->
                             <span class="name">Portfolio</span>
@@ -156,7 +156,7 @@
                         <a href="blog.html" class="menu-li">
                             <!-- img menu block -->
                             <span class="foto">
-                                <img src="./assets/img/menu/blog.png" class="menu-img" data-img-name="blog" alt="Ukieweb">
+                                <img src="./assets/img/menu/blog.png" class="menu-img" data-img-name="blog" alt="Raagavendran">
                             </span>
                             <!-- name menu block -->
                             <span class="name">Blog</span>
@@ -167,7 +167,7 @@
                         <a href="contact.html" class="menu-li">
                             <!-- img menu block -->
                             <span class="foto">
-                                <img src="./assets/img/menu/contact.png" class="menu-img" data-img-name="contact" alt="Ukieweb">
+                                <img src="./assets/img/menu/contact.png" class="menu-img" data-img-name="contact" alt="Raagavendran">
                             </span>
                             <!-- name menu block -->
                             <span class="name">Contact</span>
