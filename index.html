@@ -62,7 +62,7 @@
                     </div>
                     <div class="col-xs-12 col-sm-7 col-lg-7">
                         <!-- Your Name -->
-                        <h1 class="title">Raagavendran</h1>
+                        <h1 id="myName" class="title">Raagavendran</h1>
                         <!-- Your Profession -->
                         <h3 class="sub-title">Full stack Developer</h3>
                         <!-- social icon -->
@@ -111,7 +111,7 @@
             <div class="container">
                 <!-- start row -->
                 <div class="row">
-                    <div class="col-xs-12 col-sm-12 col-lg-12">
+                    <div id="contents" class="col-xs-12 col-sm-12 col-lg-12">
 
                         <!-- start menu block (profile) -->
                         <a href="profile.html" class="menu-li">
@@ -128,7 +128,7 @@
                         <!-- end menu block (profile) -->
 
                         <!-- start menu block (resume) -->
-                        <a href="resume.html" class="menu-li">
+                        <a  href="resume.html" class="menu-li">
                             <!-- img menu block -->
                             <span class="foto">
                                 <img src="assets/img/menu/resume.png" class="menu-img" data-img-name="resume" alt="Raagavendran">
@@ -240,6 +240,18 @@
 <script src="assets/js/jquery.knob.min.js" type="text/javascript"></script>
 <script src="assets/js/jquery.cookie.js" type="text/javascript"></script>
 <script src="assets/js/scripts.js" type="text/javascript"></script>
+
+<script>
+    $(document).ready(function(){
+    $("#myName").hover(function(){
+    $("#contents").toggleClass("myNameAnimate");
+});
+    $("#contents").hover(function(){
+    $("#myName").toggleClass("myNameAnimate");
+});
+
+});
+</script>
 
 </body>
 </html>
